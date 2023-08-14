@@ -1,8 +1,8 @@
 
 * {
-    margin: 0;
-	padding: 0;
-    box-sizing: border-box;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
 
 html, body {
@@ -23,9 +23,7 @@ html, body {
     height: 100vh; /* Adjust the height as needed */
 }
 
- 
-
-.button-anon-pen {
+ .button-anon-pen {
     width: 200px;
     background-image: linear-gradient(115deg, #4fcf70, #fad648, #a767e5, #12bcfe, #44ce7b);
     text-align: center;
@@ -73,17 +71,6 @@ html, body {
         background-position: -390px;
     }
 }
-/**
-.images{
-    border: white;
-    text-align: center;
-}
-.heading{
-    color: rgb(252, 255, 255);
-    font-size: 24px;
-    text-align: center;
-}**/
-
 
 h2{
 	text-align: center;
