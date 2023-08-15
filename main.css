@@ -1,13 +1,13 @@
 
 * {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
+    margin: 0;
+	padding: 0;
+    box-sizing: border-box;
 }
 
 html, body {
     font-family: 'lato';
-    background: #000;
+    background: #040000;
     padding: 0;
     margin: 0;
 }
@@ -23,7 +23,9 @@ html, body {
     height: 100vh; /* Adjust the height as needed */
 }
 
- .button-anon-pen {
+ 
+
+.button-anon-pen {
     width: 200px;
     background-image: linear-gradient(115deg, #4fcf70, #fad648, #a767e5, #12bcfe, #44ce7b);
     text-align: center;
@@ -72,10 +74,13 @@ html, body {
     }
 }
 
-h2{
+.heading{
 	text-align: center;
 	margin-bottom: 5rem;
+    margin-top: 6cm;
 	font-size: 4rem;
+    color: #fff;
+    background-image: linear-gradient(115deg, #4fcf70, #fad648, #a767e5, #12bcfe, #44ce7b);
 }
 
 .team-pic{
@@ -135,3 +140,38 @@ h2{
 	transform: scale(1.1);
 }
 
+nav{
+    width: 100%;
+    height: 75%;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: fixed;
+    background-image: pink;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    float:left;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+}
+nav ul{
+    float :right;
+}
+nav li{
+    display:inline-block;
+    list-style: none;
+}
+nav li a{
+    font-size:18px;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    text-decoration: none;
+    color: white;
+}
+nav li a:hover{
+    color: purple;
+    transition: all 0.4s ease 0s;
+}

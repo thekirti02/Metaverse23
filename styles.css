@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Arial ;
+    
+
+}
+body{
+	background-image: url('./about_background.jpg');
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+.heading{
+    margin-top: 1cm;
+    text-align: center;
+
+}
+.about-us{
+    text-align: center;
+
+}
+.content{
+ font-size: medium;
+ background-color: bisque;
+ box-shadow: 0.5px;
+ text-align: center;
+
+}
+.read-more{
+    background-color: rgb(146, 241, 146);
+    border-radius: 8px;
+    box-shadow: 2px;
+
+}
+
+
+
+
+
