@@ -1,4 +1,10 @@
 # Metaverse23
+Team Misfits( Vinisky Kumar(CSE-AI), Pari Khaitan (CSE-AI ), Kirti(CSE ))
+    
+
+Project:  Gulliver's third Voyage
+Demo: https://youtu.be/b5plGBILb7o
+Pitch: https://youtu.be/OfwA_OY3LTc 
 
  Embark on Gulliver's Third Voyage in Virtual Reality
 
